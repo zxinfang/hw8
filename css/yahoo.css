@@ -573,8 +573,7 @@ body {
 .goods li {
     display: flex;
     align-items: center;
-    width: 80px;
-    margin-left: 5px;
+    width: 84px;
     padding-left: 8px;
 }
 
