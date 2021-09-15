@@ -575,6 +575,7 @@ body {
     align-items: center;
     width: 80px;
     margin-left: 5px;
+    padding-left: 8px;
 }
 
 .goods img {
